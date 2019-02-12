@@ -1,0 +1,4 @@
+[19-Nov-2018 18:44:34 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_robots() in /home/cruicks6/public_html/bwebssvg.com/wp-includes/template-loader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cruicks6/public_html/bwebssvg.com/wp-includes/template-loader.php on line 28
